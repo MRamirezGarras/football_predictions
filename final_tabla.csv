@@ -1,35 +1,35 @@
 home,away,winner,home_goals,away_goals,previous_home,previous3_home,previous_away,previous3_away
-AlavÃ©s,Athletic,home,1.0,0.0,0.0,1.0,0.0,3.0
-AlavÃ©s,AtlÃ©tico,away,1.0,2.0,1.0,4.0,3.0,9.0
-AlavÃ©s,Barcelona,draw,1.0,1.0,3.0,6.0,0.0,1.0
-AlavÃ©s,Betis,away,0.0,1.0,,,,
-AlavÃ©s,Eibar,home,2.0,1.0,0.0,1.0,0.0,2.0
-AlavÃ©s,Elche,away,0.0,2.0,3.0,4.0,1.0,4.0
-AlavÃ©s,Getafe,draw,0.0,0.0,0.0,,3.0,
-AlavÃ©s,R. Sociedad,draw,0.0,0.0,3.0,5.0,1.0,7.0
-AlavÃ©s,Real Madrid,away,1.0,4.0,0.0,0.0,1.0,5.0
-AlavÃ©s,Sevilla,away,1.0,2.0,0.0,1.0,0.0,4.0
-AlavÃ©s,Valencia,draw,2.0,2.0,1.0,5.0,3.0,4.0
+Alavés,Athletic,home,1.0,0.0,0.0,1.0,0.0,3.0
+Alavés,Atlético,away,1.0,2.0,1.0,4.0,3.0,9.0
+Alavés,Barcelona,draw,1.0,1.0,3.0,6.0,0.0,1.0
+Alavés,Betis,away,0.0,1.0,,,,
+Alavés,Eibar,home,2.0,1.0,0.0,1.0,0.0,2.0
+Alavés,Elche,away,0.0,2.0,3.0,4.0,1.0,4.0
+Alavés,Getafe,draw,0.0,0.0,0.0,,3.0,
+Alavés,R. Sociedad,draw,0.0,0.0,3.0,5.0,1.0,7.0
+Alavés,Real Madrid,away,1.0,4.0,0.0,0.0,1.0,5.0
+Alavés,Sevilla,away,1.0,2.0,0.0,1.0,0.0,4.0
+Alavés,Valencia,draw,2.0,2.0,1.0,5.0,3.0,4.0
 Athletic,Barcelona,away,2.0,3.0,3.0,4.0,3.0,7.0
 Athletic,Betis,home,4.0,0.0,0.0,3.0,0.0,3.0
 Athletic,Celta,away,0.0,2.0,1.0,4.0,3.0,4.0
-Athletic,CÃ¡diz,away,0.0,1.0,3.0,,0.0,3.0
+Athletic,Cádiz,away,0.0,1.0,3.0,,0.0,3.0
 Athletic,Elche,home,1.0,0.0,0.0,4.0,1.0,2.0
 Athletic,Getafe,home,5.0,1.0,0.0,3.0,3.0,6.0
 Athletic,Huesca,home,2.0,0.0,0.0,1.0,3.0,4.0
 Athletic,Levante,home,2.0,0.0,0.0,3.0,0.0,3.0
 Athletic,R. Sociedad,away,0.0,1.0,1.0,4.0,0.0,0.0
 Athletic,Sevilla,home,2.0,1.0,0.0,3.0,0.0,1.0
-AtlÃ©tico,Barcelona,home,1.0,0.0,3.0,9.0,3.0,4.0
-AtlÃ©tico,Betis,home,2.0,0.0,3.0,5.0,0.0,3.0
-AtlÃ©tico,CÃ¡diz,home,4.0,0.0,3.0,9.0,3.0,7.0
-AtlÃ©tico,Elche,home,3.0,1.0,0.0,6.0,0.0,2.0
-AtlÃ©tico,Getafe,home,1.0,0.0,3.0,6.0,1.0,4.0
-AtlÃ©tico,Granada,home,6.0,1.0,,,3.0,
-AtlÃ©tico,Real Valladolid,home,2.0,0.0,3.0,9.0,1.0,7.0
-AtlÃ©tico,Sevilla,home,2.0,0.0,3.0,9.0,3.0,7.0
-AtlÃ©tico,Valencia,home,3.0,1.0,3.0,9.0,1.0,5.0
-AtlÃ©tico,Villarreal,draw,0.0,0.0,1.0,,3.0,6.0
+Atlético,Barcelona,home,1.0,0.0,3.0,9.0,3.0,4.0
+Atlético,Betis,home,2.0,0.0,3.0,5.0,0.0,3.0
+Atlético,Cádiz,home,4.0,0.0,3.0,9.0,3.0,7.0
+Atlético,Elche,home,3.0,1.0,0.0,6.0,0.0,2.0
+Atlético,Getafe,home,1.0,0.0,3.0,6.0,1.0,4.0
+Atlético,Granada,home,6.0,1.0,,,3.0,
+Atlético,Real Valladolid,home,2.0,0.0,3.0,9.0,1.0,7.0
+Atlético,Sevilla,home,2.0,0.0,3.0,9.0,3.0,7.0
+Atlético,Valencia,home,3.0,1.0,3.0,9.0,1.0,5.0
+Atlético,Villarreal,draw,0.0,0.0,1.0,,3.0,6.0
 Barcelona,Betis,home,5.0,2.0,1.0,1.0,3.0,3.0
 Barcelona,Eibar,draw,1.0,1.0,3.0,7.0,0.0,1.0
 Barcelona,Levante,home,1.0,0.0,0.0,3.0,3.0,5.0
@@ -40,7 +40,7 @@ Barcelona,Sevilla,draw,1.0,1.0,3.0,,3.0,
 Barcelona,Valencia,draw,2.0,2.0,3.0,6.0,1.0,2.0
 Barcelona,Villarreal,home,4.0,0.0,,,3.0,
 Betis,Celta,home,2.0,1.0,3.0,4.0,0.0,3.0
-Betis,CÃ¡diz,home,1.0,0.0,0.0,4.0,0.0,3.0
+Betis,Cádiz,home,1.0,0.0,0.0,4.0,0.0,3.0
 Betis,Eibar,away,0.0,2.0,0.0,3.0,1.0,2.0
 Betis,Elche,home,3.0,1.0,0.0,3.0,3.0,7.0
 Betis,R. Sociedad,away,0.0,3.0,3.0,3.0,3.0,6.0
@@ -48,30 +48,30 @@ Betis,Real Madrid,away,2.0,3.0,3.0,,1.0,
 Betis,Real Valladolid,home,2.0,0.0,3.0,,1.0,
 Betis,Sevilla,draw,1.0,1.0,0.0,3.0,3.0,7.0
 Betis,Villarreal,draw,1.0,1.0,3.0,3.0,1.0,3.0
-Celta,AlavÃ©s,home,2.0,0.0,3.0,9.0,0.0,4.0
-Celta,AtlÃ©tico,away,0.0,2.0,0.0,1.0,1.0,5.0
+Celta,Alavés,home,2.0,0.0,3.0,9.0,0.0,4.0
+Celta,Atlético,away,0.0,2.0,0.0,1.0,1.0,5.0
 Celta,Barcelona,away,0.0,3.0,1.0,5.0,3.0,
-Celta,CÃ¡diz,home,4.0,0.0,3.0,6.0,3.0,4.0
+Celta,Cádiz,home,4.0,0.0,3.0,6.0,3.0,4.0
 Celta,Eibar,draw,1.0,1.0,0.0,0.0,0.0,3.0
 Celta,Granada,home,3.0,1.0,0.0,1.0,0.0,1.0
 Celta,Huesca,home,2.0,1.0,1.0,7.0,1.0,4.0
 Celta,R. Sociedad,away,1.0,4.0,1.0,1.0,3.0,9.0
 Celta,Valencia,home,2.0,1.0,1.0,,3.0,
 Celta,Villarreal,away,0.0,4.0,0.0,4.0,3.0,4.0
-CÃ¡diz,AlavÃ©s,home,3.0,1.0,1.0,2.0,0.0,4.0
-CÃ¡diz,Barcelona,home,2.0,1.0,1.0,1.0,3.0,6.0
-CÃ¡diz,Getafe,away,0.0,2.0,0.0,4.0,0.0,1.0
-CÃ¡diz,Granada,draw,1.0,1.0,3.0,6.0,0.0,6.0
-CÃ¡diz,Levante,draw,2.0,2.0,3.0,5.0,3.0,6.0
-CÃ¡diz,Osasuna,away,0.0,2.0,,,,
-CÃ¡diz,R. Sociedad,away,0.0,1.0,0.0,4.0,3.0,9.0
-CÃ¡diz,Real Valladolid,draw,0.0,0.0,0.0,0.0,0.0,4.0
-CÃ¡diz,Sevilla,away,1.0,3.0,3.0,,,
-CÃ¡diz,Villarreal,draw,0.0,0.0,3.0,7.0,3.0,7.0
+Cádiz,Alavés,home,3.0,1.0,1.0,2.0,0.0,4.0
+Cádiz,Barcelona,home,2.0,1.0,1.0,1.0,3.0,6.0
+Cádiz,Getafe,away,0.0,2.0,0.0,4.0,0.0,1.0
+Cádiz,Granada,draw,1.0,1.0,3.0,6.0,0.0,6.0
+Cádiz,Levante,draw,2.0,2.0,3.0,5.0,3.0,6.0
+Cádiz,Osasuna,away,0.0,2.0,,,,
+Cádiz,R. Sociedad,away,0.0,1.0,0.0,4.0,3.0,9.0
+Cádiz,Real Valladolid,draw,0.0,0.0,0.0,0.0,0.0,4.0
+Cádiz,Sevilla,away,1.0,3.0,3.0,,,
+Cádiz,Villarreal,draw,0.0,0.0,3.0,7.0,3.0,7.0
 Eibar,Athletic,away,1.0,2.0,0.0,,0.0,
-Eibar,AtlÃ©tico,away,1.0,2.0,0.0,4.0,3.0,9.0
+Eibar,Atlético,away,1.0,2.0,0.0,4.0,3.0,9.0
 Eibar,Celta,draw,0.0,0.0,,,,
-Eibar,CÃ¡diz,away,0.0,2.0,3.0,7.0,1.0,5.0
+Eibar,Cádiz,away,0.0,2.0,3.0,7.0,1.0,5.0
 Eibar,Elche,away,0.0,1.0,0.0,1.0,0.0,
 Eibar,Getafe,draw,0.0,0.0,1.0,4.0,0.0,1.0
 Eibar,Granada,home,2.0,0.0,1.0,1.0,3.0,6.0
@@ -80,7 +80,7 @@ Eibar,Real Madrid,away,1.0,3.0,1.0,5.0,3.0,9.0
 Eibar,Valencia,draw,0.0,0.0,3.0,5.0,0.0,4.0
 Elche,Barcelona,away,0.0,2.0,1.0,1.0,3.0,9.0
 Elche,Celta,draw,1.0,1.0,0.0,6.0,0.0,1.0
-Elche,CÃ¡diz,draw,1.0,1.0,1.0,2.0,0.0,3.0
+Elche,Cádiz,draw,1.0,1.0,1.0,2.0,0.0,3.0
 Elche,Getafe,away,1.0,3.0,0.0,2.0,0.0,1.0
 Elche,Granada,away,0.0,1.0,1.0,3.0,1.0,1.0
 Elche,Huesca,draw,0.0,0.0,3.0,,1.0,2.0
@@ -98,7 +98,7 @@ Getafe,Osasuna,home,1.0,0.0,,,3.0,
 Getafe,Real Valladolid,away,0.0,1.0,0.0,4.0,1.0,2.0
 Getafe,Sevilla,away,0.0,1.0,0.0,2.0,0.0,6.0
 Getafe,Villarreal,away,1.0,3.0,1.0,4.0,3.0,7.0
-Granada,AlavÃ©s,home,2.0,1.0,3.0,,0.0,
+Granada,Alavés,home,2.0,1.0,3.0,,0.0,
 Granada,Athletic,home,2.0,0.0,,,,
 Granada,Barcelona,away,0.0,4.0,0.0,3.0,3.0,7.0
 Granada,Betis,home,2.0,0.0,3.0,4.0,1.0,4.0
@@ -108,17 +108,17 @@ Granada,Osasuna,home,2.0,0.0,0.0,3.0,1.0,3.0
 Granada,Real Valladolid,away,1.0,3.0,0.0,4.0,3.0,3.0
 Granada,Sevilla,home,1.0,0.0,1.0,4.0,1.0,7.0
 Granada,Valencia,home,2.0,1.0,0.0,6.0,0.0,2.0
-Huesca,AlavÃ©s,home,1.0,0.0,1.0,2.0,1.0,5.0
-Huesca,AtlÃ©tico,draw,0.0,0.0,1.0,2.0,3.0,
+Huesca,Alavés,home,1.0,0.0,1.0,2.0,1.0,5.0
+Huesca,Atlético,draw,0.0,0.0,1.0,2.0,3.0,
 Huesca,Barcelona,away,0.0,1.0,0.0,1.0,1.0,5.0
 Huesca,Betis,away,0.0,2.0,0.0,1.0,1.0,4.0
-Huesca,CÃ¡diz,away,0.0,2.0,1.0,,0.0,
+Huesca,Cádiz,away,0.0,2.0,1.0,,0.0,
 Huesca,Eibar,draw,1.0,1.0,0.0,1.0,0.0,4.0
 Huesca,Levante,draw,1.0,1.0,0.0,4.0,3.0,6.0
 Huesca,Real Valladolid,draw,2.0,2.0,1.0,3.0,0.0,1.0
 Huesca,Sevilla,away,0.0,1.0,1.0,2.0,3.0,6.0
 Huesca,Villarreal,draw,0.0,0.0,0.0,0.0,1.0,7.0
-Levante,AlavÃ©s,draw,1.0,1.0,1.0,2.0,1.0,4.0
+Levante,Alavés,draw,1.0,1.0,1.0,2.0,1.0,4.0
 Levante,Betis,home,4.0,3.0,1.0,4.0,3.0,4.0
 Levante,Celta,draw,1.0,1.0,0.0,0.0,0.0,0.0
 Levante,Eibar,home,2.0,1.0,0.0,4.0,3.0,4.0
@@ -127,9 +127,9 @@ Levante,Getafe,home,3.0,0.0,1.0,3.0,1.0,2.0
 Levante,R. Sociedad,home,2.0,1.0,0.0,4.0,0.0,2.0
 Levante,Real Madrid,away,0.0,2.0,0.0,3.0,3.0,7.0
 Levante,Real Valladolid,draw,2.0,2.0,1.0,4.0,1.0,4.0
-Osasuna,AlavÃ©s,draw,1.0,1.0,1.0,1.0,3.0,3.0
+Osasuna,Alavés,draw,1.0,1.0,1.0,1.0,3.0,3.0
 Osasuna,Athletic,home,1.0,0.0,1.0,4.0,3.0,3.0
-Osasuna,AtlÃ©tico,away,1.0,3.0,3.0,7.0,3.0,7.0
+Osasuna,Atlético,away,1.0,3.0,3.0,7.0,3.0,7.0
 Osasuna,Betis,away,0.0,2.0,0.0,1.0,0.0,0.0
 Osasuna,Celta,home,2.0,0.0,0.0,3.0,0.0,4.0
 Osasuna,Granada,home,3.0,1.0,1.0,2.0,1.0,4.0
@@ -137,7 +137,7 @@ Osasuna,Huesca,draw,1.0,1.0,0.0,3.0,1.0,1.0
 Osasuna,Levante,away,1.0,3.0,0.0,,0.0,
 Osasuna,Real Madrid,draw,0.0,0.0,1.0,3.0,3.0,7.0
 Osasuna,Villarreal,away,1.0,3.0,0.0,0.0,1.0,3.0
-R. Sociedad,AtlÃ©tico,away,0.0,2.0,0.0,1.0,3.0,6.0
+R. Sociedad,Atlético,away,0.0,2.0,0.0,1.0,3.0,6.0
 R. Sociedad,Betis,draw,2.0,2.0,0.0,4.0,3.0,7.0
 R. Sociedad,Eibar,draw,1.0,1.0,1.0,5.0,1.0,5.0
 R. Sociedad,Getafe,home,3.0,0.0,0.0,4.0,3.0,7.0
@@ -147,15 +147,15 @@ R. Sociedad,Osasuna,draw,1.0,1.0,3.0,3.0,1.0,2.0
 R. Sociedad,Real Madrid,draw,0.0,0.0,1.0,,,
 R. Sociedad,Valencia,away,0.0,1.0,3.0,5.0,1.0,4.0
 R. Sociedad,Villarreal,draw,1.0,1.0,3.0,9.0,1.0,7.0
-Real Madrid,AlavÃ©s,away,1.0,2.0,1.0,4.0,1.0,3.0
+Real Madrid,Alavés,away,1.0,2.0,1.0,4.0,1.0,3.0
 Real Madrid,Athletic,home,3.0,1.0,3.0,6.0,1.0,2.0
-Real Madrid,AtlÃ©tico,home,2.0,0.0,3.0,4.0,3.0,9.0
+Real Madrid,Atlético,home,2.0,0.0,3.0,4.0,3.0,9.0
 Real Madrid,Celta,home,2.0,0.0,1.0,7.0,3.0,7.0
-Real Madrid,CÃ¡diz,away,0.0,1.0,3.0,9.0,1.0,4.0
+Real Madrid,Cádiz,away,0.0,1.0,3.0,9.0,1.0,4.0
 Real Madrid,Granada,home,2.0,0.0,3.0,9.0,3.0,7.0
 Real Madrid,Huesca,home,4.0,1.0,3.0,6.0,0.0,2.0
 Real Madrid,Real Valladolid,home,1.0,0.0,3.0,,1.0,2.0
-Real Valladolid,AlavÃ©s,away,0.0,2.0,1.0,1.0,0.0,3.0
+Real Valladolid,Alavés,away,0.0,2.0,1.0,1.0,0.0,3.0
 Real Valladolid,Athletic,home,2.0,1.0,0.0,1.0,3.0,6.0
 Real Valladolid,Barcelona,away,0.0,3.0,1.0,4.0,1.0,7.0
 Real Valladolid,Celta,draw,1.0,1.0,0.0,,3.0,
@@ -166,7 +166,7 @@ Real Valladolid,Osasuna,home,3.0,2.0,0.0,4.0,0.0,1.0
 Real Valladolid,R. Sociedad,draw,1.0,1.0,,,,
 Real Valladolid,Valencia,away,0.0,1.0,3.0,4.0,1.0,1.0
 Sevilla,Celta,home,4.0,2.0,3.0,3.0,1.0,2.0
-Sevilla,CÃ¡diz,home,3.0,0.0,3.0,6.0,1.0,5.0
+Sevilla,Cádiz,home,3.0,0.0,3.0,6.0,1.0,5.0
 Sevilla,Eibar,away,0.0,1.0,0.0,4.0,1.0,4.0
 Sevilla,Levante,home,1.0,0.0,3.0,,3.0,
 Sevilla,Osasuna,home,1.0,0.0,0.0,0.0,0.0,4.0
@@ -175,16 +175,16 @@ Sevilla,Real Madrid,away,0.0,1.0,3.0,9.0,0.0,1.0
 Sevilla,Real Valladolid,draw,1.0,1.0,3.0,6.0,3.0,4.0
 Sevilla,Villarreal,home,2.0,0.0,3.0,7.0,1.0,5.0
 Valencia,Athletic,draw,2.0,2.0,1.0,2.0,0.0,4.0
-Valencia,AtlÃ©tico,away,0.0,1.0,1.0,5.0,3.0,9.0
+Valencia,Atlético,away,0.0,1.0,1.0,5.0,3.0,9.0
 Valencia,Betis,away,0.0,2.0,3.0,4.0,0.0,3.0
-Valencia,CÃ¡diz,draw,1.0,1.0,0.0,1.0,1.0,1.0
+Valencia,Cádiz,draw,1.0,1.0,0.0,1.0,1.0,1.0
 Valencia,Getafe,draw,2.0,2.0,0.0,0.0,0.0,3.0
 Valencia,Huesca,draw,1.0,1.0,0.0,,0.0,
 Valencia,Levante,home,4.0,2.0,,,,
 Valencia,Osasuna,draw,1.0,1.0,3.0,4.0,0.0,2.0
 Valencia,Real Madrid,home,4.0,1.0,1.0,1.0,3.0,6.0
 Valencia,Sevilla,away,0.0,1.0,1.0,3.0,1.0,4.0
-Villarreal,AlavÃ©s,home,3.0,1.0,0.0,4.0,1.0,1.0
+Villarreal,Alavés,home,3.0,1.0,0.0,4.0,1.0,1.0
 Villarreal,Athletic,draw,1.0,1.0,3.0,5.0,3.0,4.0
 Villarreal,Eibar,home,2.0,1.0,1.0,,1.0,
 Villarreal,Elche,draw,0.0,0.0,1.0,5.0,1.0,3.0

@@ -104,4 +104,4 @@ df_final = dfs_together.groupby(by=["home", "away", "winner"]).sum(min_count=1).
 
 df_final["home_goals"], df_final["away_goals"] = df_final["home_goals"] / 2, df_final["away_goals"]/2
 
-df_final.to_csv("final_tabla.csv", index=False)
+df_final.to_csv("final_tabla.csv", index=False, encoding='iso-8859-1')
