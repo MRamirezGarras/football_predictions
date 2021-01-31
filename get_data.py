@@ -6,7 +6,7 @@ import numpy as np
 url = ["https://resultados.as.com/resultados/ficha/equipo/real_madrid/1/calendario/",
        "https://resultados.as.com/resultados/ficha/equipo/alaves/4/calendario/",
        "https://resultados.as.com/resultados/ficha/equipo/athletic/5/calendario/",
-       "https://resultados.as.com/resultados/ficha/equipo/atletico/42/calendario/",
+       "https://resultados.as.com/resultado s/ficha/equipo/atletico/42/calendario/",
        "https://resultados.as.com/resultados/ficha/equipo/barcelona/3/calendario/",
        "https://resultados.as.com/resultados/ficha/equipo/betis/171/calendario/",
        "https://resultados.as.com/resultados/ficha/equipo/cadiz/91/calendario/",
